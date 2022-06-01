@@ -87,4 +87,8 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 15.Also we can see from SHAP summary that high Hour_18 value increasing prediction. Also we can see low Snowfall value increasing prediction and it is a common phenomenon in all the models.
 16.Lastly, In bar graph from SHAP we can see Winter has the highest feature value while Wind Speed has the Lowest shap value.We can conclude that Hour_21,Hour_8 and Wind Speed is not contributing in Decision Tree,Random Forest and Gradient Boost in model prediction.
 
+## References
+1.GeekforGeeks
+2.Kaggle
+3.Analytics Vidya
 
