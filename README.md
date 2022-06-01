@@ -24,16 +24,16 @@ Bike sharing system generally rents bikes on an hour, day and month basis and is
 According to our problem our main aim is to build a predictive model so as to find the number of bikes rented based on the given dataset.
 
 
-## <b> Problem Description </b>
+## <b> Problem Description: </b>
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
-## <b> Data Description </b>
+### <b> Data Description: </b>
 
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
 
-## <b>Attribute Information: </b>
+#### <b>Attribute Information: </b>
 
 * Date : year-month-day
 * Rented Bike count - Count of bikes rented at each hour
@@ -50,7 +50,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-## **Feature Description**
+## **Feature Description:**
 
 
 * Date : Date feature which is str type is needed to convert it into Datetime format DD/MM/YYYY.The new feature extracted from Date are Day, Month and year
@@ -68,7 +68,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Functioning Day: Whether the day is Functioning Day or not can be retrieved from this feature is str type.
 * Weekend : Weekend extracted from Day 1 when the day is Saturday or Sunday while 0 when weekdays 
 
-## **Conclusion**:-
+## **Conclusion:**
 
 1. In summer season highest number of bike was rented as compared to other seasons with count touching at 3500 while in winter season lowest number of bike was rented touching the count of close to just 1000. From this we can assume that people tends to rent more bikes in summer as compare to other seasons also people tends to rent less bike in winter season.
 2. During working day people tend to rent more bikes as around 3500 from this we can assume that on holidays people tends to rent less bike.
