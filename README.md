@@ -17,6 +17,12 @@
 
 Keywords: *Bike-Sharing, Data Mining, Predictive Analysis, Linear Regression, Machine Learning.*
 
+## **Introduction:**
+
+Bike sharing system demand nowadays is increasing in proportional manners globally. This system has gained a lot of  attention with its cost effective system and easy to use nature. This system has already attracted a huge customer base globally like in South Korea, São Paulo ,China and Australia.
+Bike sharing system generally rents bikes on an hour, day and month basis and is generally based on static pricing inclusive of hour,days or month. Because of its affordability and easy renting system anyone can commute on arrival. 
+According to our problem our main aim is to build a predictive model so as to find the number of bikes rented based on the given dataset.
+
 
 ## <b> Problem Description </b>
 
