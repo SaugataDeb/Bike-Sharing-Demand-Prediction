@@ -50,7 +50,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-# **Feature Description**
+## **Feature Description**
 
 
 * Date : Date feature which is str type is needed to convert it into Datetime format DD/MM/YYYY.The new feature extracted from Date are Day, Month and year
@@ -68,7 +68,7 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Functioning Day: Whether the day is Functioning Day or not can be retrieved from this feature is str type.
 * Weekend : Weekend extracted from Day 1 when the day is Saturday or Sunday while 0 when weekdays 
 
-# **Conclusion**:-
+## **Conclusion**:-
 
 1. In summer season highest number of bike was rented as compared to other seasons with count touching at 3500 while in winter season lowest number of bike was rented touching the count of close to just 1000. From this we can assume that people tends to rent more bikes in summer as compare to other seasons also people tends to rent less bike in winter season.
 2. During working day people tend to rent more bikes as around 3500 from this we can assume that on holidays people tends to rent less bike.
